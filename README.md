@@ -1,2 +1,2 @@
-# JellyTerain
-unity project for jellyshift(https://github.com/creditcoder/laya-jellyshift-clone)
+# JellyTerrain
+Unity project for JellyShift(https://github.com/creditcoder/laya-jellyshift-clone)
